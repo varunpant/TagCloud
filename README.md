@@ -25,6 +25,7 @@ THE SOFTWARE.
 >![Illustration](SS1.PNG "This image is for Illustration only")
 >>![Illustration](SS2.PNG "This image is for Illustration only")
  
+See it in action [here](http://varunpant.com/static/resources/jsCumulus.html)
 
 I hope you find it useful.
 
